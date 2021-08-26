@@ -1764,11 +1764,11 @@ input, select, textarea {
 				width: 48px;
 				height: 48px;
 			}
-
-		.image.fit {
-			display: block;
-			width: 100%;
-		}
+			
+			.image.fit {
+				display: block;
+				width: 100%;
+			}
 
 		.image.featured {
 			display: block;
@@ -2257,6 +2257,10 @@ input, select, textarea {
 
 			#main > section.three {
 				background-color: #ecf1f1;
+			}
+
+			#about-me-text {
+				align-content: justify;
 			}
 
 			#main > section.four {
