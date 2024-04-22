@@ -3,7 +3,7 @@ My Full Stack Developer Portfolio Website
 
 
 
-# [Route 66 Photo Album](./index.html)
+# [Ted Wetekamp Portfolio Website](./index.html)
 
 This website is my full stack developer and cloud developer portfolio.  The site includes a personal and professional background summary, a .pdf copy of my resume, links to development project websites, and an embedded contact email form.
 
